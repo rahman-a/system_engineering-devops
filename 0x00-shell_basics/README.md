@@ -6,3 +6,5 @@ mkdir is command to create a new directory
 mv is command to move files and directory to different path
 rm is command to delete files or directoy
 rm -r is a command to delete directory with its content 
+ln -s [target path] [path of symbolic line]
+
